@@ -32,7 +32,7 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
         alt="vuejs" width="40" height="40" /> </a>
-  <a href="https://astro.build/" target="_blank" rel="noreferrer"> <img
+  <a href="https://astro.build/" target="blank" rel="noreferrer"> <img
         src="https://astro.build/assets/press/astro-icon-light-gradient.png"
         alt="AstroDev" width="40" height="40" /> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
