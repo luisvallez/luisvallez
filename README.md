@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm luisvallez</h1>
 <h3 align="center">I'm currently a Front-end Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.discordapp.net/attachments/921723910582575155/1222877319446921247/p.png?ex=6617d040&is=66055b40&hm=6cb056e6e6b0656c329fe32e751046f28b692b996677e95bd34795763ce9d8fc&=&format=webp&quality=lossless">
-
-
-
 - 🌱 I’m currently learning **C, CS, CPP.**
 
 - 💬 Ask me about **React Vite, HTML, JS/JSX, CSS Projects.**
