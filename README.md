@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm luisvallez</h1>
 <h3 align="center">I'm currently a Front-end Developer</h3>
 
-- 🌱 I’m currently learning **C, CS, CPP.**
+- 🌱 I’m currently learning **TS**.
 
 - 💬 Ask me about **React Vite, HTML, JS/JSX, CSS Projects.**
 
