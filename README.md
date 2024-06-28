@@ -1,5 +1,5 @@
-<div align="center">
-  <img height="200px" width="500px" object-fit="cover" src="">
+<div align="left">
+  <img width="900px" src="https://github.com/luisvallez/luisvallez/blob/bffe99a0959dc89b236cd5e8c5ad0b291dd255d4/950_2x_shots_so.png">
 </div>
 
 # Hi, I'm Fernando Zamorano 👋
