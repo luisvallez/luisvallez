@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/ViteJS-%239566fe.svg?&style=for-the-badge">
   <img src="https://img.shields.io/badge/NodeJS-%236fa660.svg?&style=for-the-badge">
   <img src="https://img.shields.io/badge/NextJS-%23323232.svg?&style=for-the-badge">
+  <img src="https://img.shields.io/badge/ElectronJS-%238fd3e0.svg?&style=for-the-badge">
   <br>
   <img src="https://img.shields.io/badge/Bootstrap-%237417f6.svg?&style=for-the-badge">
   <img src="https://img.shields.io/badge/MUI-%23006ad5.svg?&style=for-the-badge">
