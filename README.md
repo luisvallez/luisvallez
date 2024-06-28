@@ -1,80 +1,42 @@
-<h1 align="center">Hi 👋, I'm luisvallez</h1>
-<h3 align="center">I'm currently a Front-end Developer</h3>
+<div align="center">
+  <img height="200px" width="500px" object-fit="cover" src="">
+</div>
 
-- 🌱 I’m currently learning **TS**.
+# Hi, I'm Fernando Zamorano 👋
+### Contact:
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://luisvallez.github.io/Portafolio/)
+[<img src="https://img.shields.io/badge/Email-%237c5cff.svg?&style=for-the-badge&logo=twitter&logoColor=white">](mailto:SoyFerxd@proton.me)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">]([https://www.linkedin.com/in/vivek-chauhan-769028174/](https://www.linkedin.com/in/fernando-zamorano-b4b744271/))
+[<img src="https://img.shields.io/badge/upwork-%2314a800.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.upwork.com/freelancers/~018f53c4d4af7622df?mp_source=share)
+[<img src="https://img.shields.io/badge/discord-%235662f5.svg?&style=for-the-badge&logo=Discord&logoColor=white">](discordapp.com/users/soyferxdd)
+[<img src="https://img.shields.io/badge/instagram-%23ff3040.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/soyferxdd/)
 
-- 💬 Ask me about **React Vite, HTML, JS/JSX, CSS Projects.**
+### Languages, Tools & Skills:
+<div display="flex">
+  <img src="https://img.shields.io/badge/HTML-%23e96228.svg?&style=for-the-badge">
+  <img src="https://img.shields.io/badge/JavaScript-%23efd81d.svg?&style=for-the-badge">
+  <img src="https://img.shields.io/badge/TypeScript-%232f74c0.svg?&style=for-the-badge">
+  <img src="https://img.shields.io/badge/CSS-%232862e9.svg?&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Python-%23417dac.svg?&style=for-the-badge">
+  <img src="https://img.shields.io/badge/PHP-%23556096.svg?&style=for-the-badge">
+  <br>
+  <img src="https://img.shields.io/badge/React-%2358c4dc.svg?&style=for-the-badge">
+  <img src="https://img.shields.io/badge/ViteJS-%239566fe.svg?&style=for-the-badge">
+  <img src="https://img.shields.io/badge/NodeJS-%236fa660.svg?&style=for-the-badge">
+  <img src="https://img.shields.io/badge/NextJS-%23323232.svg?&style=for-the-badge">
+  <br>
+  <img src="https://img.shields.io/badge/Bootstrap-%237417f6.svg?&style=for-the-badge">
+  <img src="https://img.shields.io/badge/MUI-%23006ad5.svg?&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Tailwind-%2338bdf8.svg?&style=for-the-badge">
+  <br>
+  <img src="https://img.shields.io/badge/Figma-%230ac97f.svg?&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Git-%23f05639.svg?&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Photoshop-%2337abff.svg?&style=for-the-badge">
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/fernando-zamorano-b4b744271" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fernando-zamorano-b4b744271" height="30" width="40" /></a>
-<a href="https://instagram.com/soyferxdd" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soyferxdd" height="30" width="40" /></a>
-<a href="mailto:soyferxd@proton.me" target="_blank"><img align="center" src="https://seeklogo.com/images/P/proton-mail-logo-31D8CDC79E-seeklogo.com.png" alt="soyferxdd" height="30" width="40" /></a>
-</p>
- <h3 align="left">Languages and Tools:</h3>
-  <p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-        alt="react" width="40" height="40" /> </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-      <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" /> </a>
-  <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"
-        alt="electron" width="40" height="40" />
-    </a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img
-        src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
-    </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-        alt="vuejs" width="40" height="40" /> </a>
-  <a href="https://astro.build/" target="blank" rel="noreferrer"> <img
-        src="https://astro.build/assets/press/astro-icon-light-gradient.png"
-        alt="AstroDev" width="40" height="40" /> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-        width="40" height="40" /> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-        alt="html5" width="40" height="40" /> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-        alt="javascript" width="40" height="40" /> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-        width="40" height="40" /> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-        alt="nodejs" width="40" height="40" /> </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img
-        src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" />
-    </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-        alt="docker" width="40" height="40" />
-    </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img
-        src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" />
-    </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-        src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-    </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-        alt="mysql" width="40" height="40" /> </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img
-        src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" /> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-        alt="postgresql" width="40" height="40" /> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
-    </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-        alt="photoshop" width="40" height="40" /> </a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img
-        src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40"
-        height="40" />
-    </a>
-  </p>
+### PC Specs:
+<div display="flex">
+  <img src="https://img.shields.io/badge/windows-MSI%20z490%20Gaming%20Plus-%239566fe.svg?&style=for-the-badge&logo=windows&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/NVIDIA-GeForce%20GTX%201660%20Super-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+</div>
