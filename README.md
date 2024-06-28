@@ -1,8 +1,11 @@
 <div align="left">
-  <img width="900px" src="https://github.com/luisvallez/luisvallez/blob/bffe99a0959dc89b236cd5e8c5ad0b291dd255d4/950_2x_shots_so.png">
+  <img  src="https://github.com/luisvallez/luisvallez/blob/e99171fd361727a338db2d232c215a97d1ea0ba7/foto.png">
 </div>
 
-# Hi, I'm Fernando Zamorano 👋
+<h1 align="center">
+  Hi, I'm Fernando Zamorano 👋
+</h1>
+
 ### Contact:
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://luisvallez.github.io/Portafolio/)
 [<img src="https://img.shields.io/badge/Email-%237c5cff.svg?&style=for-the-badge&logo=twitter&logoColor=white">](mailto:SoyFerxd@proton.me)
