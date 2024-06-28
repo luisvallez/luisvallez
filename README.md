@@ -11,8 +11,10 @@
 [<img src="https://img.shields.io/badge/Email-%237c5cff.svg?&style=for-the-badge&logo=twitter&logoColor=white">](mailto:SoyFerxd@proton.me)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">]([https://www.linkedin.com/in/vivek-chauhan-769028174/](https://www.linkedin.com/in/fernando-zamorano-b4b744271/))
 [<img src="https://img.shields.io/badge/upwork-%2314a800.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.upwork.com/freelancers/~018f53c4d4af7622df?mp_source=share)
+<br>
 [<img src="https://img.shields.io/badge/discord-%235662f5.svg?&style=for-the-badge&logo=Discord&logoColor=white">](discordapp.com/users/soyferxdd)
 [<img src="https://img.shields.io/badge/instagram-%23ff3040.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/soyferxdd/)
+[<img src="https://img.shields.io/badge/whatsapp-%2304be3c.svg?&style=for-the-badge">](https://wa.me/+526861072811)
 
 ### Languages, Tools & Skills:
 <div display="flex">
