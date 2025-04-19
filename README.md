@@ -44,5 +44,5 @@
 <div display="flex">
   <img src="https://img.shields.io/badge/windows-MSI%20z490%20Gaming%20Plus-%239566fe.svg?&style=for-the-badge&logo=windows&logoColor=white" /><br>
   <img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/NVIDIA-GeForce%20GTX%201660%20Super-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVIDIA-GeForce%20RTX%205060%20-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </div>
