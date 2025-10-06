@@ -16,8 +16,8 @@
 [<img src="https://img.shields.io/badge/whatsapp-%2304be3c.svg?&style=for-the-badge">](https://wa.me/+526861072811)
 
 ### Languages, Tools & Skills:
-<div display="flex">
-<span><img src="https://img.shields.io/badge/HTML-%23e96228.svg?&style=for-the-badge"></span>
+<div display="display: flex; flex-wrap: wrap; gap: 6px; pointer-events: none;">
+  <span><img src="https://img.shields.io/badge/HTML-%23e96228.svg?&style=for-the-badge"></span>
   <span><img src="https://img.shields.io/badge/JavaScript-%23efd81d.svg?&style=for-the-badge"></span>
   <span><img src="https://img.shields.io/badge/TypeScript-%232f74c0.svg?&style=for-the-badge"></span>
   <span><img src="https://img.shields.io/badge/CSS-%232862e9.svg?&style=for-the-badge"></span>
