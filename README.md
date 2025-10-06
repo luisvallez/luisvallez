@@ -9,7 +9,7 @@
 ### Contact:
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://luisvallez.github.io/Portafolio/)
 [<img src="https://img.shields.io/badge/Email-%237c5cff.svg?&style=for-the-badge&logo=twitter&logoColor=white">](mailto:FerCoding@proton.me)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">]([https://www.linkedin.com/in/vivek-chauhan-769028174/](https://www.linkedin.com/in/fernando-zamorano-b4b744271/))
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/fernandozamorano/)
 [<img src="https://img.shields.io/badge/upwork-%2314a800.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.upwork.com/freelancers/~018f53c4d4af7622df?mp_source=share)
 [<img src="https://img.shields.io/badge/discord-%235662f5.svg?&style=for-the-badge&logo=Discord&logoColor=white">](discordapp.com/users/soyferxdd)
 [<img src="https://img.shields.io/badge/instagram-%23ff3040.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/soyferxdd/)
