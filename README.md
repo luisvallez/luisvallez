@@ -21,18 +21,18 @@
   <img src="https://img.shields.io/badge/JavaScript-%23efd81d.svg?&style=for-the-badge">
   <img src="https://img.shields.io/badge/TypeScript-%232f74c0.svg?&style=for-the-badge">
   <img src="https://img.shields.io/badge/CSS-%232862e9.svg?&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Git-%23f05639.svg?&style=for-the-badge">
+  <img src="https://img.shields.io/badge/ExpressJS-%2300000.svg?&style=for-the-badge">
+  <img src="https://img.shields.io/badge/APIS-%239566fe.svg?&style=for-the-badge">
   <img src="https://img.shields.io/badge/Python-%23417dac.svg?&style=for-the-badge">
-  <img src="https://img.shields.io/badge/PHP-%23556096.svg?&style=for-the-badge">
   <img src="https://img.shields.io/badge/React-%2358c4dc.svg?&style=for-the-badge">
   <img src="https://img.shields.io/badge/ViteJS-%239566fe.svg?&style=for-the-badge">
   <img src="https://img.shields.io/badge/NodeJS-%236fa660.svg?&style=for-the-badge">
-  <img src="https://img.shields.io/badge/NextJS-%23323232.svg?&style=for-the-badge">
   <img src="https://img.shields.io/badge/ElectronJS-%238fd3e0.svg?&style=for-the-badge">
   <img src="https://img.shields.io/badge/Bootstrap-%237417f6.svg?&style=for-the-badge">
   <img src="https://img.shields.io/badge/MUI-%23006ad5.svg?&style=for-the-badge">
   <img src="https://img.shields.io/badge/Tailwind-%2338bdf8.svg?&style=for-the-badge">
   <img src="https://img.shields.io/badge/Figma-%230ac97f.svg?&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Git-%23f05639.svg?&style=for-the-badge">
   <img src="https://img.shields.io/badge/Photoshop-%2337abff.svg?&style=for-the-badge">
 </div>
 
