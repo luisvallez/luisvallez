@@ -33,7 +33,6 @@
   <span><img src="https://img.shields.io/badge/MUI-%23006ad5.svg?&style=for-the-badge"></span>
   <span><img src="https://img.shields.io/badge/Tailwind-%2338bdf8.svg?&style=for-the-badge"></span>
   <span><img src="https://img.shields.io/badge/Figma-%230ac97f.svg?&style=for-the-badge"></span>
-  <span><img src="https://img.shields.io/badge/Photoshop-%2337abff.svg?&style=for-the-badge"></span>
 </div>
 
 
