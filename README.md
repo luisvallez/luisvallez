@@ -3,23 +3,19 @@
 </div>
 
 <h1 align="center">
-  Hi, I'm Fernando Zamorano 👋
+  Hi, I'm Fernando👋
 </h1>
 
-### Contact:
+### CONTACT:
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://luisvallez.github.io/Portafolio/)
 [<img src="https://img.shields.io/badge/Email-%237c5cff.svg?&style=for-the-badge&logo=twitter&logoColor=white">](mailto:FerCoding@proton.me)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/fernandozamorano/)
 [<img src="https://img.shields.io/badge/upwork-%2314a800.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.upwork.com/freelancers/~018f53c4d4af7622df?mp_source=share)
-[<img src="https://img.shields.io/badge/discord-%235662f5.svg?&style=for-the-badge&logo=Discord&logoColor=white">](discordapp.com/users/soyferxdd)
-[<img src="https://img.shields.io/badge/instagram-%23ff3040.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/soyferxdd/)
-[<img src="https://img.shields.io/badge/whatsapp-%2304be3c.svg?&style=for-the-badge">](https://wa.me/+526861072811)
 
-### Languages, Tools & Skills:
+### TECH STACK:
 <div style="display: flex; flex-wrap: wrap; gap: 6px; pointer-events: none;">
   <span><img src="https://img.shields.io/badge/HTML-%23e96228.svg?&style=for-the-badge"></span>
   <span><img src="https://img.shields.io/badge/JavaScript-%23efd81d.svg?&style=for-the-badge"></span>
-  <span><img src="https://img.shields.io/badge/TypeScript-%232f74c0.svg?&style=for-the-badge"></span>
   <span><img src="https://img.shields.io/badge/CSS-%232862e9.svg?&style=for-the-badge"></span>
   <span><img src="https://img.shields.io/badge/Git-%23f05639.svg?&style=for-the-badge"></span>
   <span><img src="https://img.shields.io/badge/ExpressJS-%2300000.svg?&style=for-the-badge"></span>
@@ -35,10 +31,9 @@
   <span><img src="https://img.shields.io/badge/Figma-%230ac97f.svg?&style=for-the-badge"></span>
 </div>
 
-
-### PC Specs:
+### PC SPECS:
 <div display="flex">
-  <img src="https://img.shields.io/badge/windows-MSI%20z490%20Gaming%20Plus-%239566fe.svg?&style=for-the-badge&logo=windows&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/NVIDIA-GeForce%20RTX%205060%20Ti%20-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/MSI-z490%20Gaming%20Plus-%239566fe.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVIDIA-GeForce%20RTX%204060%20-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </div>
