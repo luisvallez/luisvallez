@@ -30,6 +30,7 @@
   <span><img src="https://img.shields.io/badge/Tailwind-%2338bdf8.svg?&style=for-the-badge"></span>
   <span><img src="https://img.shields.io/badge/Figma-%230ac97f.svg?&style=for-the-badge"></span>
   <span><img src="https://img.shields.io/badge/Flet-%2300000.svg?&style=for-the-badge"></span>
+  <span><img src="https://img.shields.io/badge/Beautiful%20Soup-%23efd81d.svg?&style=for-the-badge"></span>
 </div>
 
 ### PC SPECS:
